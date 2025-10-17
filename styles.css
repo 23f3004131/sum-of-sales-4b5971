@@ -1,8 +1,8 @@
-body {
-    font-family: Arial, sans-serif;
+/*...existing css...*/
+.product-filter {
+    /* add styles for filter dropdown */
 }
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
+.chart-container {
+    /* add styles for chart */
 }
