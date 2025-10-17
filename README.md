@@ -1,31 +1,24 @@
-# Sales Dashboard
+# Sales Dashboard Application
 
-This is a web application that displays sales data from a CSV file in a Bootstrap table and calculates the total sales amount.
+An updated, interactive sales dashboard that includes a product filter dropdown and a Chart.js visualization.
 
-## Features
+## Updated Features
+- Product filter dropdown
+- Chart.js visualization
 
-- Displays all sales records from a CSV file in a table
-- Calculates and displays the total sales amount
-- Uses Bootstrap for styling
-- Responsive design
+## What's New
+- Added a product filter dropdown that allows users to filter data based on the selected product
+- Added a Chart.js visualization to the dashboard to visually present sales data
+
+## Usage
+- Select a product from the dropdown to filter the data displayed in the table and chart.
 
 ## File Structure
+- index.html
+- README.md
+- styles.css
+- script.js
 
-- `index.html` - Main HTML file
-- `styles.css` - CSS file for styling
-- `script.js` - JavaScript file for fetching and displaying data
-
-## How to Use
-
-Open `index.html` in your browser to view the application.
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-## Setup
-
-No special setup instructions. Make sure to place `data.csv` file in the same directory as `index.html`.
+## Changelog
+- v2.0.0: Added product filter and Chart.js visualization
+- v1.0.0: Initial release
